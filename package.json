@@ -1,0 +1,11 @@
+{
+  "name": "navigating-git-demo",
+  "version": "0.0.0",
+  "description": "Count the number of words in a string of text",
+  "main": "src/count-words.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT Expat"
+}

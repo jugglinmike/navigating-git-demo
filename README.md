@@ -2,7 +2,16 @@
 
 Count the number of words in a string of text!
 
-**Note** We are just starting; nothing has been implemented yet.
+## Usage
+
+This function exports a function. To use it, simply load the module and invoke
+the function with the text whose words you'd like to count:
+
+```javascript
+var countWords = require('count-words');
+
+console.log(countWords('this is a short string')); // <== 5
+```
 
 ## License
 

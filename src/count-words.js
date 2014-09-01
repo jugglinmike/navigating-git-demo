@@ -1,7 +1,7 @@
 'use strict';
 
-function countWords() {
-
+function countWords(words) {
+  return words.split(' ').length;
 }
 
 module.exports = countWords;
